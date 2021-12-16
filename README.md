@@ -51,18 +51,33 @@ SnowmAn Music commands:
   
 **Snowman Text command**
 t - will give truth question 
-d - will give dare 
-t/d - randomly gives a truth or dare 
-fact - will give interesting fact 
-quote - will give a quote 
-jokes - will give a joke 
-y/n - will give a answer in yes , no or maybe 
-hello - will greet with different gifs of hello 
+  
+d - will give dare
+  
+t/d - randomly gives a truth or dare
+  
+fact - will give interesting fact
+  
+quote - will give a quote
+  
+jokes - will give a joke
+  
+y/n - will give a answer in yes , no or maybe
+  
+hello - will greet with different gifs of hello
+  
 bye - will say bye with different gifs 
-$random - to choose random numbers 
-how r u? - will reply with gifs 
+  
+$random - to choose random numbers
+  
+how r u? - will reply with gifs
+  
 happy or sad? - will reply with gifs
-best chemist - will reply with gifs 
-hi - will reply with gifs 
-![topic_name] - will provide info from wikipedia about your topic name 
+  
+best chemist - will reply with gifs
+  
+hi - will reply with gifs
+  
+![topic_name] - will provide info from wikipedia about your topic name
+  
 help - will give some ifno aobut him 
